@@ -6,7 +6,7 @@ My name is Minh Trang,
 - 🌐 I mostly work with web development, recently focusing on ReactJS. 
 - 😍 I really love my vanilla-stack personal website, it's what sparked my passion and got me back into web development.
 
-I think to really be good at tech, I have to approach it with a whimsical perspective, that's when I learn the most while keeping perseverance with my projects.
+I think in order to accelerate my growth at tech, I have to approach it with a whimsical perspective, that's when I learn the most while staying persistent with my projects.
 
 ----
 ### Tools
